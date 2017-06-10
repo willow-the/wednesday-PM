@@ -3,6 +3,7 @@
 #### HTML first...
 * Add a header to this page above the container. Say something like, "Crazy Buttons"
 * Add buttons so that the container looks something like this:
+
 ![example](images/ex.png)
 * Add an id to each button that tells you what it says. For example, the first one might be `<button id="pink">COLOR IT PINK!</button>`
 
