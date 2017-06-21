@@ -21,4 +21,5 @@ $(document).ready(function() {
   $("#replace").click(function(){
   $("#replace").replaceWith("<h2 style='text-align : center;'>REPLACED</h2>");
   })
+  
 })
