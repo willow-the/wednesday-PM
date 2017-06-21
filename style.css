@@ -18,9 +18,15 @@ button {
   border-radius: 5px;
   margin-top: 30px;
   border: none;
-  box-shadow: 1px 1px 1px 1px gray
+  box-shadow: 1px 1px 1px 1px gray;
+  background-color:red;
 }
 button:hover {
   color: white;
   background: #305e59;
+  background-color: green;
+}
+
+h1{
+  text-align: center;
 }
