@@ -9,12 +9,13 @@
 }
 div {
   border: 1px solid black;
+  text-align: center;
 }
 button {
   display: block;
   margin: 0 auto;
   padding: 10px;
-  background-color: #bad6d3;
+  background-color: #94DBF6;
   border-radius: 5px;
   margin-top: 30px;
   border: none;
@@ -23,4 +24,12 @@ button {
 button:hover {
   color: white;
   background: #305e59;
+}
+
+h1 {
+text-align: center;
+}
+
+button:hover {
+color: red;
 }

@@ -1,4 +1,6 @@
 $(document).ready(function() {
-// your javascript and jQuery code goes below
+  $("#pink").click(function() {
+    $("#container").css({"background-color": "yellow", "font-size"})
+  })
 
 })
