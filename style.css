@@ -6,6 +6,7 @@
   width: 500px;
   height: 500px;
   margin: 0 auto;
+  
 }
 div {
   border: 1px solid black;
@@ -18,7 +19,7 @@ button {
   border-radius: 5px;
   margin-top: 30px;
   border: none;
-  box-shadow: 1px 1px 1px 1px gray
+  box-shadow: 1px 1px 1px 1px green;
 }
 button:hover {
   color: white;
