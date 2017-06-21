@@ -25,3 +25,7 @@ button:hover {
   color: black;
   background: green;
 }
+
+h1 {
+  text-align: center;
+}
