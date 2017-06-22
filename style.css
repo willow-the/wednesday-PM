@@ -6,6 +6,7 @@
   width: 500px;
   height: 500px;
   margin: 0 auto;
+  background-color:blue;
 }
 div {
   border: 1px solid black;
@@ -14,13 +15,18 @@ button {
   display: block;
   margin: 0 auto;
   padding: 10px;
-  background-color: #bad6d3;
-  border-radius: 5px;
+  background-color: yellow;
+  border-radius: 50%;
   margin-top: 30px;
   border: none;
   box-shadow: 1px 1px 1px 1px gray
+  
+
 }
 button:hover {
-  color: white;
-  background: #305e59;
+  
+  background-color: red;
+}
+h1 {
+  text-align:center;
 }
