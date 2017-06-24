@@ -7,7 +7,7 @@ $(document).ready(function() {
     $("#container").css("background-color", " blue")
   });
   $("#fadeAway").on("click", function(){
-    $("#container").fadeOut(3000)
+    $("#container").fadeOut(1000)
     $("#container").fadeIn(3000)
   });
   $("#lottery").on("click", function(){
@@ -20,7 +20,7 @@ $(document).ready(function() {
     $("#container").css("background-image", "url(  https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/All-about-puppies--Cesar%E2%80%99s-tips%2C-tricks-and-advice.jpg?itok=bi9xUvwe)")
   });
   $("#replace").on("click", function(){
-    $("#replace").replaceWith("<h1>Replaced</h1>")
+    $("#container").css("background-image", "url( http://images.huffingtonpost.com/2016-02-03-1454510205-5314273-eiffeltower.jpg)") 
   });
   $("#amazon").on("click", function(){
     window.location.href = ("https://www.amazon.com")
